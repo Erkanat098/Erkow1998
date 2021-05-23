@@ -1,0 +1,1173 @@
+
+
+	<!-- Header -->
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Index</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="images/icons/favicon.png"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/themify/themify-icons.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/elegant-font/html-css/style.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/lightbox2/css/lightbox.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    <script src="https://maps.api.2gis.ru/2.0/loader.js"></script>
+    <script>
+            DG.then(function() {
+                DG.map('map', {
+                    center: [54.98, 82.89],
+                    zoom: 10
+                });
+            });
+        </script>
+<!--===============================================================================================-->
+</head>
+<body class="animsition">
+
+	<!-- header fixed -->
+	<div class="wrap_header fixed-header2 trans-0-4 d-flex justify-content-between">
+		<!-- Logo -->
+		<!-- Modal -->
+		
+		<!-- Menu -->
+		<div class="wrap_menu">
+			<nav class="menu">
+				<ul class="main_menu">
+					<li>
+						<a href="newprod.html" class="h-fonts">Новинки</a>
+					</li>
+
+					<li class="sale-noti">
+						<a href="sale.html">Скидки</a>
+					</li>
+
+					<li>
+						<a href="allprod.html">Каталог</a>
+					</li>
+
+					<li>
+						<a href="prod.html">Кроссы</a>
+					</li>
+
+					<li>
+						<a href="kedi.html">Кеды</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+
+		<!-- Header Icon -->
+		<div class="topbar-child2">
+			<div class="header-wrapicon2 m-r-13 d-flex justify-content-center align-items-center">
+					<p class="h-fonts mr-1">Корзина</p>
+			<!-- 	<i class="fa fa-shopping-cart js-show-header-dropdown" aria-hidden="true"></i> -->
+
+						<img class=" js-show-header-dropdown" src="images/Vector (Stroke) — копия 3.png" style="width: 23,5px;height: 23,5px;">
+
+
+				<!-- Header cart noti -->
+				<div class="header-cart header-dropdown">
+						<div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+						</div>
+
+							<div class="header-cart-total">
+								<div class="d-flex justify-content-between align-items-center w-100 p-b-20">
+								<span class="m-text14">
+									Сумма
+								</span>
+
+								<span class="m-text14">
+									98.000 тг
+								</span>
+							</div>
+							</div>
+
+							<div class="header-cart-buttons">
+									<div class="modal-footer w-100">
+									     		 <a href="order.html" class="w-100"><button type="button" class="btn btn-success btn-gree  w-100"><p>Корзина</p></button></a>
+											</div>
+											<div class="modal-footer w-100">
+														 <a href="checkout.html" class="w-100">
+									       		 <button type="button" class="btn btn-success btn-gree-act  w-100"><p>Оплата</p></button>
+														 </a>
+											
+											</div>
+							</div>
+				</div>
+			</div>
+			<a href="#" class="header-wrapicon1 dis-block m-l-10 d-flex justify-content-center align-items-center">
+
+					<p class="h-fonts mr-1" data-toggle="modal" data-target="#exampleModalCenter">Вход</p>
+						<img src="images/Vector (Stroke)-2.png" style="width: 23,5px;height: 23,5px;">
+
+			</a>
+		</div>
+	</div>
+
+	<!-- top noti -->
+
+
+	<!-- Header -->
+	<header class="header2">
+		<!-- Header desktop -->
+		<div class="container-menu-header-v2 p-t-26">
+
+			<div class="topbar2">
+
+				<!-- Logo2 -->
+				<a href="index.html" class="logo2">
+					<p class="title-sh">SNICKERSNEE</p>
+				</a>
+				<form class="form-inline d-flex w-50 justify-content-between md-form form-sm active-cyan-2  h-input" style="height: 40px">
+				  <input class="form-control form-control-sm  w-75 h-input" style="border: none" type="text" placeholder=""
+				    aria-label=""> 
+				  <img class="" src="images/Ellipse (Stroke).png" style="width: 23,5px;height: 23,5px; margin-right: 10px">
+				</form>
+
+				<div class="topbar-child2">
+
+					<!--  -->
+					
+
+					<div class="header-wrapicon2 m-r-13 d-flex justify-content-center align-items-center">
+							<p class="h-fonts mr-1">Корзина</p>
+						<img class=" js-show-header-dropdown" src="images/Vector (Stroke) — копия 3.png" style="width: 23,5px;height: 23,5px;">
+						<!-- <span class="header-icons-noti">1</span> -->
+
+						<div class="header-cart header-dropdown">
+								<div>
+
+							<div class="d-flex m-b-10">
+								<a href="prod-detail.html"><img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg"></a>
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+						</div>
+
+							<div class="header-cart-total">
+								<div class="d-flex justify-content-between align-items-center w-100 p-b-20">
+								<span class="m-text14">
+									Сумма
+								</span>
+
+								<span class="m-text14">
+									98.000 тг
+								</span>
+							</div>
+							</div>
+
+							<div class="header-cart-buttons">
+									<div class="modal-footer w-100">
+									     		 <a href="order.html" class="w-100"><button type="button" class="btn btn-gree  w-100">Корзина</button></a>
+											</div>
+											<div class="modal-footer w-100">
+														 <a href="checkout.html" class="w-100">
+									       		 <button type="button" class="btn btn-gree-act  w-100">Оплата</button>
+														 </a>
+											
+											</div>
+							</div>
+						</div>
+					</div>
+					<a href="#" class="header-wrapicon1 dis-block m-l-10 d-flex justify-content-center align-items-center">
+
+							<p class="h-fonts mr-1" data-toggle="modal" data-target="#exampleModalCenter">Вход</p>
+						<img src="images/Vector (Stroke)-2.png" style="width: 23,5px;height: 23,5px;">
+
+					</a>
+				</div>
+			</div>
+
+			<div class="wrap_header" style="box-shadow: 5px 11px 8px 0px rgba(0, 0, 0, 0.08)">
+
+				<!-- Menu -->
+				<div class="wrap_menu ml-3" >
+					<nav class="menu">
+						<ul class="main_menu">
+
+							<li>
+								<a href="new-prod.html" class="h-fonts">Новинки</a>
+							</li>
+
+							<li class="sale-noti">
+								<a href="sale.html">Скидки</a>
+							</li>
+
+							<li>
+								<a href="all-prod.html">Каталог</a>
+							</li>
+
+							<li>
+								<a href="prod.html">Кроссы</a>
+							</li>
+
+							<li>
+								<a href="kedi.html">Кеды</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+
+				<!-- Header Icon -->
+				<div class="header-icons">
+
+				</div>
+			</div>
+		</div>
+
+		<!-- Header Mobile -->
+		<div class="wrap_header_mobile">
+			<!-- Logo moblie -->
+			<a href="index.html" class="">
+				<p class="title-mob">SNICKERSNEE</p>
+			</a>
+
+			<!-- Button show menu -->
+			<div class="btn-show-menu">
+				<!-- Header Icon mobile -->
+				<div class="topbar-child2 p-0">
+
+					<div class="header-wrapicon2 m-r-13 d-flex justify-content-center align-items-center">
+							<p class="h-fonts mr-1">Корзина</p>
+					<img class=" js-show-header-dropdown" src="images/Vector (Stroke) — копия 3.png" style="width: 23,5px;height: 23,5px;">
+
+						<div class="header-cart header-dropdown">
+									<div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+							<div class="d-flex m-b-10">
+								<img class="checkout-img m-r-20" src="images/nike/Kyrie 7/Kyrie 7 слева.jpg">
+								<a href="product-detail.html" class="block2-name dis-block m-text14 p-b-20 d-flex flex-column">Nike Air Force LV8
+										<span class="s-text1 m-t-10">CD7090-001</span>
+								</a>
+							</div>
+						</div>
+
+							<div class="header-cart-total">
+								<div class="d-flex justify-content-between align-items-center w-100 p-b-20">
+								<span class="m-text14">
+									Сумма
+								</span>
+
+								<span class="m-text14">
+									98.000 тг
+								</span>
+							</div>
+							</div>
+
+							<div class="header-cart-buttons">
+									<div class="modal-footer w-100">
+									     		 <a href="order.html" class="w-100"><button type="button" class="btn btn-success btn-gree  w-100">Корзина</button></a>
+											</div>
+											<div class="modal-footer w-100">
+														 <a href="checkout.html" class="w-100">
+									       		 <button type="button" class="btn btn-success btn-gree-act  w-100">Оплата</button>
+														 </a>
+											
+											</div>
+							</div>
+						</div>
+					</div>
+					<a href="#" class="header-wrapicon1 dis-block m-l-10 d-flex justify-content-center align-items-center">
+
+							<p class="h-fonts mr-1">Вход</p>
+						<img src="images/Vector (Stroke)-2.png" style="width: 23,5px;height: 23,5px;">
+
+					</a>
+				</div>
+
+				<div class="btn-show-menu-mobile hamburger hamburger--squeeze">
+					<span class="hamburger-box">
+						<span class="hamburger-inner"></span>
+					</span>
+				</div>
+			</div>
+		</div>
+		<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+		    <div class="modal-content p-3">
+		      <div class="modal-header d-flex justify-content-center p-t-20">
+		        <h5 class="modal-title text-center" id="exampleModalLongTitle">Вход</h5>
+		       <!--  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		          <span aria-hidden="true">&times;</span>
+		        </button> -->
+		      </div>
+		      <div class="modal-body m-t-20"> 
+		        <form>
+		          <div class="form-group">
+		            <input type="text" class="form-control form-mod s-text2 " placeholder="Адрес электронной почты">
+		          </div>
+		          <div class="form-group">
+		              <input type="password" class="form-control form-mod s-text2 " placeholder="Пароль">
+		          </div>
+		          <div class="d-flex justify-content-between align-items-center m-t-20">
+			          <div class="form-group form-check d-flex align-items-center m-0">
+					    <input type="checkbox" class="form-check-input m-0" id="save">
+					    <label name="save" class="form-check-label m-text15" for="save">Запомнить меня</label>
+					  </div>
+					  <a href="" class="s-text1">Забыли пароль?</a>
+				  </div>
+				  <p class="m-text13 text-center m-t-50">Выполняя вход, ты принимаешь Политику <br> конфиденциальности и Условия использования.</p>
+		        </form>
+
+		      </div>
+		      <div class="modal-footer w-100">
+		        <button type="button" class="btn btn-success btn-gree2  w-100">ВОЙТИ</button>
+				</div>
+				<p class="text-center m-text13  p-b-30">Еще нет аккаунта? <span  data-toggle="modal" data-target="#exampleModalCenter" style="color: #000000;">Зарегистрируйтесь</span> </p>
+		    </div>
+
+		  </div>
+		</div>
+
+		<div class="modal fade active-cyan-2 exampleModalCenter2" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" >
+			<!-- <div class="modal fade active show" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" style="display: block;"> -->
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+		    <div class="modal-content p-3">
+		      <div class="modal-header d-flex justify-content-center p-t-20">
+		        <h5 class="modal-title text-center" id="exampleModalLongTitle">Регистрация</h5>
+		       <!--  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		          <span aria-hidden="true">&times;</span>
+		        </button> -->
+		      </div>
+		      <div class="modal-body m-t-15"> 
+		        <form>
+		        	<p class="m-text13 text-center m-b-30" style="color: #4A4A4A;">Создай профиль члена клуба Sneakernsee и получи доступ к лучшим товарам, источникам вдохновения и общению в сообществе.</p>
+		          <div class="form-group">
+		            <input type="text" class="form-control form-mod s-text2 " placeholder="Адрес электронной почты">
+		          </div>
+		          <div class="form-group">
+		            <input type="text" class="form-control form-mod s-text2 " placeholder="Имя">
+		          </div>
+		          <div class="form-group">
+		            <input type="text" class="form-control form-mod s-text2 " placeholder="Фамилия">
+		          </div>
+		          <div class="form-group d-flex align-items-center">
+		            <div class="form-group form-check d-flex align-items-center m-0">
+					    <input type="checkbox" class="form-check-input m-0" id="save">
+					    <label name="save" class="form-check-label s-text2" for="save">Мужчина</label>
+					 </div>
+					  <div class="form-group form-check d-flex align-items-center m-0 ml-5">
+					    <input type="checkbox" class="form-check-input m-0" id="save">
+					    <label name="save" class="form-check-label s-text2" for="save">Женщина</label>
+					 </div>
+		          </div>
+		          <div class="form-group">
+		              <input type="password" class="form-control form-mod s-text2 " placeholder="Введите пароль">
+		          </div>
+				  <p class="m-text13-2 m-t-50">Создавая аккаунт, ты принимаешь Политику конфиденциальности и Условия использования Sneakersnee</p>
+		        </form>
+
+		      </div>
+		      <div class="modal-footer w-100">
+		        <button type="button" class="btn btn-success btn-gree2  w-100" data-toggle="modal" data-target="#exampleModalCenter3">Зарегистрироваться</button>
+				</div>
+				<p class="text-center m-text13 p-b-30">Уже есть аккаунт? <span style="color: #000000;">Войти</span> </p>
+		    </div>
+
+		  </div>
+		</div>
+		<div class="modal fade active-cyan-3" id="exampleModalCenter3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" style="top: 30%;">
+			<!-- <div class="modal fade active show" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" style="display: block;"> -->
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+		    <div class="modal-content p-3">
+		    
+		      <div class="modal-body m-t-15 d-flex flex-column align-items-center"> 
+		       <img src="images/img_loading_sucess@3x.png" style="width: 46px">
+				<p class="text-center m-text14-2 p-b-30 m-t-15">Вы успешно зарегестрировались</p>
+
+		      </div>
+
+		  </div>
+		</div>
+
+		  </div>
+		</div>
+
+		<!-- Menu Mobile -->
+		<div class="wrap-side-menu" >
+			<nav class="side-menu">
+				<ul class="main-menu">
+					<li class="item-menu-mobile">
+						<a href="product.html">Новинки</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="product.html">Скидки</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="cart.html">Каталог</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="blog.html">Кроссы</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="about.html">Кеды</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+
+	<!-- Slide1 -->
+	<section class="slide1">
+		<div class="wrap-slick1 ">
+			<section class="bg-title-page p-t-40 p-b-10 flex-col-c-m" style="background-image: url(images/photosnadpis.png);">
+	</section>
+		</div>
+	</section>
+
+
+<section class="newproduct bgwhite p-t-45 p-b-105">
+		<div class="container">
+			<div class="sec-title p-b-60">
+				<h3 class="m-text5">
+					Кроссовки
+				</h3>
+			</div>
+
+			<!-- Slide2 -->
+			<div class="wrap-slick2">
+				<div class="slick2">
+
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative">
+								<a href="prod-detail.html">
+									<img src="images/nike/Jubilee/Jubilee слева.jpg" alt="IMG-PRODUCT">
+											</a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Jubilee
+									<span class="s-text1">CD7090-001</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									35.000 тг
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину 
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative">
+								<a href="prod-detail.html">
+								<img src="images/white 1.png" alt="IMG-PRODUCT"></a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Flyleather
+									<span class="s-text1">CD7090-002</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									25.000 тг
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale2">
+								<a href="prod-detail.html">
+								<img src="images/black 1.png" alt="IMG-PRODUCT"></a>
+
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Zoom Fly
+									<span class="s-text1">CD7090-003</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5 d-flex flex-column">
+											36.500 тг
+											<span class="s-text1" style="text-decoration: line-through;">29.500 тг</span>
+										</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
+								<a href="prod-detail.html">
+								<img src="images/air-vapormax-plus-mens-shoe-w4xgr4 1.png" alt="IMG-PRODUCT"></a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Free
+									<span class="s-text1">CD7090-004</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5 d-flex flex-column">
+											44.500 тг
+											<span class="s-text1" style="text-decoration: line-through;">29.500 тг</span>
+										</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
+								<a href="prod-detail.html">
+								<img src="images/air-vapormax-plus-mens-shoe-w4xgr4 1.png" alt="IMG-PRODUCT"></a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Air Force LV8
+									<span class="s-text1">CD7090-001</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									27.000 тг
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+			</div>
+		</div>
+	</section>
+<section class="banner2 bg5 p-t-55 p-b-55">
+		<div class="container">
+			<div class="sec-title p-b-22">
+				<h3 class="m-text5">
+					Новинки
+				</h3>
+			</div>
+			<div class="row">
+				<div class="col-sm-10 col-md-8 col-lg-6 m-l-r-auto p-t-15 p-b-15">
+					<div class="hov-img-zoom pos-relative">
+						<img src="images/main-2.png" alt="IMG-BANNER">
+
+						<div class="ab-t-l s
+						izefull d-flex flex-column justify-content-end p-l-15 p-r-15">
+							<span class="m-text16 p-t-45 fs-20-sm">
+								Новые Nike Air Max LV8
+							</span>
+							<div class="mt-3 mb-3">
+								<a href="new-prod.html">
+									<button type="button" class="btn btn-light"> <p class="m-text10">Смотреть</p></button>
+										</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-sm-10 col-md-8 col-lg-6 m-l-r-auto p-t-15 p-b-15">
+					<div class="bgwhite hov-img-zoom pos-relative p-b-20per-ssm">
+						<img src="images/main3.png" alt="IMG-BANNER">
+
+						<div class="ab-t-l sizefull d-flex flex-column justify-content-end p-l-15 p-r-15">
+							<span class="m-text16 p-t-45 fs-20-sm">
+								Новые Nike Adapt
+							</span>
+							<div class="mt-3 mb-3">
+
+								<a href="new-prod.html">
+								<button type="button" class="btn btn-light"> <p class="m-text10">Смотреть</p></button>
+									</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<section class="newproduct bgwhite p-t-45 p-b-105">
+		<div class="container">
+			<div class="sec-title p-b-60">
+				<h3 class="m-text5">
+					Кеды
+				</h3>
+			</div>
+
+			<!-- Slide2 -->
+			<div class="wrap-slick2">
+				<div class="slick2">
+
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative">
+								<a href="prod-detail.html">
+								
+								<img src="images/air-force-1-07-lv8-mens-shoe-CT7h8k 1.png" alt="IMG-PRODUCT"></a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Air Force 1
+									<span class="s-text1">CF8010-011</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									20.000 тг
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative">
+								<img src="images/blazer-low-mens-shoe-4w5Mgj 1.png" alt="IMG-PRODUCT">
+
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Air Force 1 React
+									<span class="s-text1">CF8010-012</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									25.000 тг
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
+								<a href="prod-detail.html">
+								
+								<img src="images/Superstar_Shoes_White_EG4958_01_standard 1.png" alt="IMG-PRODUCT"></a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Air Premium
+									<span class="s-text1">CF8010-013</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5 d-flex flex-column">
+											18.500 тг
+											<span class="s-text1" style="text-decoration: line-through;">13.500 тг</span>
+										</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative">
+								<a href="prod-detail.html">
+								
+								<img src="images/кроссовки-для-школьников-court-borough-low-2-rRV2vl 1.png" alt="IMG-PRODUCT"></a>
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike Air Force 1 Black
+									<span class="s-text1">CF8010-014</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									20.000 тг
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+					<div class="item-slick2 p-l-15 p-r-15">
+						<!-- Block2 -->
+						<div class="block2">
+							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
+								<a href="prod-detail.html">
+								
+								<img src="images/nike/Nike ZoomX SuperRep Surge/Nike ZoomX SuperRep Surge слева.jpg" alt="IMG-PRODUCT"></a>
+
+								<div class="block2-overlay trans-0-4">
+									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+									</a>
+
+									<!-- <div class="block2-btn-addcart w-size1 trans-0-4">
+										<button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+											Add to Cart
+										</button>
+									</div> -->
+								</div>
+							</div>
+
+							<div class="block2-txt p-t-20 d-flex justify-content-between align-items-top">
+								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5 d-flex flex-column">
+									Nike ZoomX SuperRep 
+									<span class="s-text1">CF8010-015</span>
+								</a>
+
+								<span class="block2-price m-text6 p-r-5">
+									24.000 тг
+									<span class="s-text1" style="text-decoration: line-through;">18.000 тг</span>
+								</span>
+							</div>
+							<div class="w-100 mt-2">
+								<button type="button" class="btn btn-outline-success btn-gree w-100 s-text2">
+									<!-- <p class="s-text2"> -->
+									Добавить в корзину
+								<!-- </p> -->
+							</button>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+			</div>
+
+		</div>
+	</section>
+
+
+	<!-- Footer -->
+	<footer class="bg6 p-t-45 p-b-43 p-l-45 p-r-45">
+		<div class="container">
+				 <div class="row">
+				    <div class="col-md-3">
+					     <div class=" p-t-30 d-flex flex-column">
+								<h4 class="s-text12 p-b-15">
+									Информация
+								</h4>
+								<ul>
+									<li class="p-b-9">
+										<a href="about-c.html" class="s-text7">
+											О компании
+										</a>
+									</li>
+
+									<li class="p-b-9">
+										<a href="about-c.html" class="s-text7">
+											Контакты
+										</a>
+									</li>
+
+									<li class="p-b-9">
+										<a href="about-c4.html" class="s-text7">
+											Оплата
+										</a>
+									</li>
+
+								</ul>
+							</div>
+				    </div>
+				    <div class="col-md-3">
+				       <div class=" p-t-30 d-flex flex-column">
+							<h4 class="s-text12 p-b-15">
+								Помощь 
+							</h4>
+
+							<ul>
+								<li class="p-b-9">
+									<a href="about-c3.html" class="s-text7">
+										Таблица размеров
+									</a>
+								</li>
+
+								<li class="p-b-9">
+									<a href="about-c2.html" class="s-text7">
+										Возврат/Обмен
+									</a>
+								</li>
+
+								<li class="p-b-9">
+									<a href="about-c4.html" class="s-text7">
+										Условия доставки
+									</a>
+								</li>
+
+								<li class="p-b-9">
+									<a href="about-c5.html" class="s-text7">
+										FAQ
+									</a>
+								</li>
+							</ul>
+						</div>
+				    </div>
+				    <div class="col-md-3">
+				      	<div class=" p-t-30 d-flex flex-column">
+							<h4 class="s-text12 p-b-15">
+								+7 747 472 17 10 
+							</h4>
+
+							<ul>
+								<li class="p-b-9">
+									<p  class="s-text7">
+										г. Алматы мкр Кулагер 28д, 47кв
+									</p>
+								</li>
+
+								<li class="p-b-9">
+									<p  class="s-text7">
+										Пн — Пт: с 09:00 до 20:00
+									</p>
+								</li>
+
+								<li class="p-b-9">
+									<p class="s-text7">
+										Сб: с 09:00 до 16:00
+									</p>
+								</li>
+							</ul>
+					
+						</div>
+				    </div>
+				    <div class="col-md-3">
+						<div class=" p-t-30 d-flex flex-column">
+							<h4 class="s-text12 p-b-15">
+								Мы в социальных сетях
+							</h4>
+
+								<ul>
+								<li class="p-b-9">
+								
+									<img src="images/Group 7.png">
+
+
+									
+								</li>
+
+								<li class="p-b-9 m-t-30">
+									<h4 class="s-text12">
+										Способы оплаты
+									</h4>
+								</li>
+
+								<li class="p-b-9">
+									
+									<img class="m-t-5" src="images/Group 11.png">
+								</li>
+							</ul>
+						</div>
+				  </div>
+		</div>
+<hr>
+		<div class="t-center p-l-15 p-r-15 border-top-1">
+			<div class="t-center s-text8 p-t-5">
+				Все права защищены © Snickersnee 
+			</div>
+		</div>
+	</footer>
+
+
+
+	<!-- Back to top -->
+	<div class="btn-back-to-top bg0-hov" id="myBtn">
+		<span class="symbol-btn-back-to-top">
+			<i class="fa fa-angle-double-up" aria-hidden="true"></i>
+		</span>
+	</div>
+
+	<!-- Container Selection1 -->
+	<div id="dropDownSelect1"></div>
+
+	<!-- Modal Video 01-->
+
+
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/bootstrap/js/popper.js"></script>
+	<script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/select2/select2.min.js"></script>
+	<script type="text/javascript">
+		$(".selection-1").select2({
+			minimumResultsForSearch: 20,
+			dropdownParent: $('#dropDownSelect1')
+		});
+	</script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/slick/slick.min.js"></script>
+	<script type="text/javascript" src="js/slick-custom.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/lightbox2/js/lightbox.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/sweetalert/sweetalert.min.js"></script>
+	<script type="text/javascript">
+		$('.block2-btn-addcart').each(function(){
+			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
+			$(this).on('click', function(){
+				swal(nameProduct, "is added to cart !", "success");
+			});
+		});
+
+		$('.block2-btn-addwishlist').each(function(){
+			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
+			$(this).on('click', function(){
+				swal(nameProduct, "is added to wishlist !", "success");
+			});
+		});
+		$('#exampleModalCenter').on('hidden.bs.modal', function () {
+		  // Load up a new modal...
+		  $('#exampleModalCenter2').modal('show')
+		  
+		});
+		$(function() {
+		  return $(".modal").on("show.bs.modal", function() {
+		    var curModal;
+		    curModal = this;
+		    $(".modal").each(function() {
+		      if (this !== curModal) {
+		        $(this).modal("hide");
+		      }
+		    });
+		  });
+		});
+		
+	</script>
+
+<!--===============================================================================================-->
+	
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>
